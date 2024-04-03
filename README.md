@@ -3,6 +3,8 @@ This is the NextJs application, I built a simplified version of the financial da
 
 - Visit Financial-Dashboard
 https://next-js-financial-dashboard-two.vercel.app/
+// Email: user@nextmail.com
+// Password: 123456
 
 # Reference
 - https://nextjs.org/learn/dashboard-app
